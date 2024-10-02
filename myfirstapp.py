@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import ydata_profiling
 from streamlit_pandas_profiling import st_profile_report
-import os
+#import os
 
 st.title("DQ Profiler")
 
